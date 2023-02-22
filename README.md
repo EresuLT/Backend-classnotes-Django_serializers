@@ -1,5 +1,6 @@
 ## What is API?
 
+
 An application programming interface is a connection between computers or between computer programs.
 
 It is a type of software interface, offering a service to other pieces of software.
